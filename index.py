@@ -1,5 +1,5 @@
-print("Apoorav Kumar")
-print("21BCS2182")
+print("Sangeeta")
+print("21BCS2223")
 a = int(input("Enter 1st Number: "))
 b = int(input("Enter 2nd Number: "))
 print("Sum is: ", a+b)
